@@ -10,4 +10,4 @@ const num3 = 22
 const num4 = 6
 const mod = num3%num4
 
-const max = Math.ceil(420/22)
+const max = Math.max(200/10)
